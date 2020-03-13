@@ -2,3 +2,5 @@
 .idea
 /bioinformatics-plotly-example.ipynb
 .ipynb_checkpoints/bioinformatics-plotly-example-checkpoint.ipynb
+/ignore/
+/ignore/*
