@@ -4,3 +4,6 @@
 .ipynb_checkpoints/bioinformatics-plotly-example-checkpoint.ipynb
 /ignore/
 /ignore/*
+/.backups/
+/.*
+/.backups/*
