@@ -3,5 +3,4 @@
 - [map of worldwide deaths as of 3/11/20](plots//mapbox_scatter-density_plot_deaths.html)
 
 
-
-[1] [JHU CSSE Dataset](/CSSEGISandData/COVID-19)
+[1] [JHU CSSE Dataset](https://github.com/CSSEGISandData/COVID-19)
