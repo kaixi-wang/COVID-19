@@ -5,5 +5,5 @@
 /ignore/
 /ignore/*
 /.backups/
-/.*
 /.backups/*
+/credentials.json
